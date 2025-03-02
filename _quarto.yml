@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Free Little Libraries"
+  navbar:
+    logo: "https://cdn.pixabay.com/photo/2013/07/13/01/09/books-155185_1280.png"
+    left:
+      - href: home.qmd
+        text: Home
+      - href: about.qmd
+        text: About Us
+      - href: data.qmd
+        text: Data
+      - href: map.qmd
+        text: Interactive Map
+      - href: open.qmd
+        text: Letter
+
+format:
+  html:
+    theme:
+      - lux
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,16 @@
+---
+title: "data"
+format: html
+---
+
+
+**Layout**
+
+| Borough   	| Libraries Built |
+|---------------|-----------------|
+| Brooklyn  	| 68          	|
+| Queens    	| 47          	|
+| Staten Island | 33          	|
+| Manhattan 	| 24          	|
+| The Bronx 	| 11          	|
+
